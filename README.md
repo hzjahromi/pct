@@ -17,8 +17,7 @@ If you want to cite the metric, please cite the following paper:
 [1] Jahromi, H.Z.; Delaney, D.; Hines, A. A Sign of Things to Come: Predicting the Perception of Above-the-Fold Time in Web Browsing. Future Internet 2021, 13, 50. https://doi.org/10.3390/fi13020050
 
 ### BibTeX:
-@Article{fi13020050,
-
+@Article{jahromi2021pct,\
 AUTHOR = {Jahromi, Hamed Z. and Delaney, Declan and Hines, Andrew},\
 TITLE = {A Sign of Things to Come: Predicting the Perception of Above-the-Fold Time in Web Browsing},\
 JOURNAL = {Future Internet},\
