@@ -19,7 +19,7 @@ If you want to cite the metric, please cite the following paper:
 ### BibTeX:
 @Article{fi13020050,
 
-AUTHOR = {Jahromi, Hamed Z. and Delaney, Declan and Hines, Andrew},
+AUTHOR = {Jahromi, Hamed Z. and Delaney, Declan and Hines, Andrew},\n
 TITLE = {A Sign of Things to Come: Predicting the Perception of Above-the-Fold Time in Web Browsing},
 JOURNAL = {Future Internet},
 VOLUME = {13},
